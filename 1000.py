@@ -1,4 +1,4 @@
-#2가지 방법
+# 2가지 방법
 
 # A, B = map(int, input().split())
 # print(A+B)
